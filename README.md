@@ -36,3 +36,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi-projects&show_icons=true&locale=en" alt="aadi-projects" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-projects&" alt="aadi-projects" /></p>
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
