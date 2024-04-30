@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi-projects&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-projects" /> </p>
 
-- 🌱 I’m currently learning **GAME Development**
+- 🌱 I’m currently learning **JAVA AND OOPS**
 
 - 💬 Ask me about **C++ and database**
 
