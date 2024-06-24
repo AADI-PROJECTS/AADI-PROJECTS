@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Aadil;He/Him;Computer+Engineering+Student;Indian+Software+Dev;Coding+Lover+:3;Love+challenges+%3C3;" alt="Pursuing a degree in computer engineering, Indian Sorftware developer,  lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Aadil;He/Him;Pursuing+a+degree+in+computer+engineering;Indian+Software+Dev;Coding+Lover+:3;Love+challenges+%3C3;" alt="Pursuing a degree in computer engineering, Indian Sorftware developer,  lover"></a>
 </div>
 <h1 align="center">Hi 👋, I'm Aadil</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
