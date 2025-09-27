@@ -7,8 +7,7 @@
 <h1 align="center">Hi 👋, I'm Aadil</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
-
+<img align="right" alt="coding" width="500" height="300" src="https://images.stockcake.com/public/3/a/9/3a9eb247-1c0c-4a0e-985e-9a1db2deecab_large/neon-coding-session-stockcake.jpg">
 
 
 
