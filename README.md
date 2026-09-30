@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi-projects&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-projects" /> </p>
 
-- 🌱 I’m currently learning **JavaScript And Web-Development**
+- 🌱 I’m currently learning **Advanced NodeJS And AWS**
 
-- 💬 Ask me about **C++ and database**
+- 💬 Ask me about **C++ and Full Stack Development**
 
 - 📫 How to reach me **aadilmalik9971@gmail.com**
 
@@ -30,52 +30,204 @@
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <p align="left">
 
+  <!-- Programming Languages & DSA -->
+
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         alt="C++" width="40" height="40"/>
   </a>
 
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         alt="Java" width="40" height="40"/>
   </a>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="Python" width="40" height="40"/>
   </a>
 
   <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+         alt="PHP" width="40" height="40"/>
   </a>
+
+
+  <!-- Frontend Development -->
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+         alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+         alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+         alt="Bootstrap" width="40" height="40"/>
+  </a>
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+         alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+         alt="React" width="40" height="40"/>
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+         alt="Next.js" width="40" height="40"/>
+  </a>
+
+  <!-- shadcn/ui -->
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://ui.shadcn.com/favicon.ico"
+         alt="shadcn/ui" width="40" height="40"/>
+  </a>
+
+  <!-- Framer Motion -->
+  <a href="https://motion.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/framer/0055FF"
+         alt="Framer Motion" width="40" height="40"/>
+  </a>
+
+
+  <!-- Backend & APIs -->
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+         alt="Node.js" width="40" height="40"/>
+  </a>
+
+<!-- API -->
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+       alt="API" width="40" height="40"/>
+</a>
+
+  <!-- Databases -->
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL" width="40" height="40"/>
   </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+         alt="MongoDB" width="40" height="40"/>
+  </a>
+
 
 
 </p>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
-<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<!-- Design -->
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+       alt="Figma" width="40" height="40"/>
+</a>
+
+
+<!-- Version Control -->
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       alt="Git" width="40" height="40"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="GitHub" width="40" height="40"/>
+</a>
+
+
+<!-- Package Manager -->
+
+<!-- npm -->
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+       alt="npm" width="40" height="40"/>
+</a>
+
+
+<!-- Development Tools -->
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+       alt="VS Code" width="40" height="40"/>
+</a>
+
+<!-- Windows -->
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
+       alt="Windows" width="40" height="40"/>
+</a>
+
+
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+       alt="Vercel" width="40" height="40"/>
+</a>
+
+
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
+       alt="Netlify" width="40" height="40"/>
+</a>
+
 </br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi-projects&show_icons=true&locale=en&layout=compact" alt="aadi-projects" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi-projects&show_icons=true&locale=en" alt="aadi-projects" /></p>
+<!-- GitHub Stats -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-projects&" alt="aadi-projects" /></p>
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=AADI-PROJECTS&show_icons=true&locale=en&layout=compact"
+       alt="AADI-PROJECTS" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=AADI-PROJECTS&show_icons=true&locale=en"
+       alt="AADI-PROJECTS" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=AADI-PROJECTS"
+       alt="AADI-PROJECTS" />
+</p>
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
